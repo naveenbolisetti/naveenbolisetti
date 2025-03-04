@@ -2,9 +2,9 @@
 💻 Web Developer | 🌟 Tech Enthusiast | 🚀 Learning & Growing  
 
 ### 🔥 Skills & Technologies  
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap  
+- **Frontend:** HTML, CSS, JavaScript,  
 - **Backend:** Python, C, C++  
-- **Tools:** Git, GitHub, Linux, MS Office  
+- **Tools:** Git, GitHub, Linux, Microsoft Office, Power BI  
 
 ### 📌 Projects  
 - 🛠 **Coming Soon:** Customer Management System  
